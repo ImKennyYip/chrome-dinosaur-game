@@ -1,4 +1,4 @@
-# [Chrome-Dinosaur-Game](https://youtu.be/S6GNtMGNcUE)
+# [Chrome-Dinosaur-Game](https://youtu.be/lgck-txzp9o)
 - Coding Tutorial: https://youtu.be/lgck-txzp9o
 - Demo: https://imkennyyip.github.io/chrome-dinosaur-game/
 
